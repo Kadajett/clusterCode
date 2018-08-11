@@ -1,8 +1,27 @@
 'use strict';
 const sys = require('sys')
 const exec = require('child_process').exec;
+const execSync = require('child_process').execSync;
 const fig = require('figlet');
 const express = require('express');
+
+var walkSync = function(dir, filelist) {
+    var path = path || require('path');
+    var fs = fs || require('fs'),
+        files = fs.readdirSync(dir);
+    filelist = filelist || [];
+    files.forEach(function(file) {
+        if (fs.statSync(path.join(dir, file)).isDirectory()) {
+            filelist = walkSync(path.join(dir, file), filelist);
+        }
+        else {
+            if(file.indexOf('txt') !== -1) {
+                filelist.push(path.join(dir, file));
+            }
+        }
+    });
+    return filelist;
+};
 
 (() => {
     let app = express();
@@ -10,10 +29,20 @@ const express = require('express');
     // copier "sudo bash ./copier.sh 0 0 '~/books' './clusterCode/books/*'"
     
     const booksLocation = './books';
-    const endLocation = '~/books/.';
+    const endLocation = './booksEnd';
     const runner = 'sudo bash ./runner.sh';
 	const servers = ['192.168.2.61', '192.168.2.84', '192.168.2.54'];
 	const hashToFind = "1a74381c8afca5dc84d3b23c2a60f24e"
+
+    const bookList = walkSync('./books/', []);
+    exec(`rm -rf ${endLocation} && mkdir ${endLocation}`)
+    bookList.forEach((location) => {
+        exec(`mv ./${location} ${endLocation}/.`, (err, stdout, stderr) => {
+            if(err) {
+                console.error(err);
+            }
+        });
+    });
 
     // console.time('ClusterBuster')
     for(let i = 1; i < 4; i++) {
@@ -52,3 +81,4 @@ const express = require('express');
         console.log("Started on PORT 3000");
     });
 })();
+
