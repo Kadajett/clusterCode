@@ -17,5 +17,5 @@ if [[ "$2" -eq "0" ]]; then
 else
         newIndex=$(($2-1))
         echo "Node: $newIndex:"
-        sudo sshpass  -p "pipass$2" ssh pi@${servers[$newIndex]}:$3 $1
+        sudo sshpass  -p "pipass$2" scp pi@${servers[$newIndex]}:${$3} $1
 fi
