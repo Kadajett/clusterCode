@@ -13,7 +13,7 @@ const express = require('express');
     const endLocation = '~/books/.';
     const runner = 'sudo bash ./runner.sh';
 	const servers = ['192.168.2.61', '192.168.2.84', '192.168.2.54'];
-	const hashToFind = "c415220c25ce2413a907adbfceb137e9"
+	const hashToFind = "1a74381c8afca5dc84d3b23c2a60f24e"
 
     // console.time('ClusterBuster')
     for(let i = 1; i < 4; i++) {
@@ -25,7 +25,7 @@ const express = require('express');
             // console.timeEnd('ClusterBuster');
             }
             console.log(stdout);
-            exec(`sudo sshpass -p "pipass${i}" scp -r ./filechecker.py pi@${servers[i-1]}:~/books`, function(err, stdout, stderr) {
+            exec(`sudo sshpass -p "pipass${i}" scp -r ./filechecker.py pi@${servers[i-1]}:~/`, function(err, stdout, stderr) {
                 if (err) {
                 // retsart your timers
                 console.error(err);

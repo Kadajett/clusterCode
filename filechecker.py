@@ -32,8 +32,6 @@ def worker(book, hashToTest):
                 m.update(line[c:c+19])
                 # print line[c:c+18]
                 # print m.hexdigest()
-                if line[c:c+19] == "I will work for you":
-                    print m.hexdigest()
 
                 if m.hexdigest() == hashToTest:
                     duration = 1  # second
@@ -41,6 +39,7 @@ def worker(book, hashToTest):
                     os.system('play --no-show-progress --null --channels 1 synth %s sine %f' % (duration, freq))
                     print 'success at'
                     print(datetime.datetime.now())
+                    print line[c:c+19]
                     contents = urllib2.urlopen("192.168.86.177:3000/success").read()
                     return true
 
