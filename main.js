@@ -23,7 +23,7 @@ const fig = require('figlet');
             // console.timeEnd('ClusterBuster');
             }
             console.log(stdout);
-            exec(runner + " ")
+            // exec(runner + " ")
         });
     }
     
