@@ -1,0 +1,22 @@
+{
+  "name": "cluster-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kadajett/clusterCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kadajett/clusterCode/issues"
+  },
+  "homepage": "https://github.com/Kadajett/clusterCode#readme",
+  "dependencies": {
+    "figlet": "^1.2.0"
+  }
+}

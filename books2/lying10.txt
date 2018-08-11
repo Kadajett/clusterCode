@@ -1,0 +1,491 @@
+Project Gutenberg Etext On the Decay of the Art of Lying, by Twain
+#17 in our series by Mark Twain
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Title:  On the Decay of the Art of Lying
+
+Author:  Mark Twain
+
+April, 2001  [Etext #2572]
+
+
+Project Gutenberg Etext On the Decay of the Art of Lying, by Twain
+*******This file should be named lying10.txt or lying10.zip*******
+
+Corrected EDITIONS of our etexts get a new NUMBER, lying11.txt
+VERSIONS based on separate sources get new LETTER, lying10a.txt
+
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+We are planning on making some changes in our donation structure
+in 2000, so you might want to email me, hart@pobox.com beforehand.
+
+
+
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+On the Decay of the Art of Lying
+
+by Mark Twain [Sameul Clemens]
+
+
+
+
+ESSAY, FOR DISCUSSION, READ AT A MEETING OF THE HISTORICAL
+AND ANTIQUARIAN CLUB OF HARTFORD, AND OFFERED FOR THE
+THIRTY-DOLLAR PRIZE.[*]
+
+[*] Did not take the prize.
+
+
+
+
+  Observe, I do not mean to suggest that the _custom_ of lying has
+suffered any decay or interruption--no, for the Lie, as a Virtue, A Principle,
+is eternal; the Lie, as a recreation, a solace, a refuge in time of need, the
+fourth Grace, the tenth Muse, man's best and surest friend, is immortal, and
+cannot perish from the earth while this club remains. My complaint simply
+concerns the decay of the _art_ of lying. No high-minded man, no man of right
+feeling, can contemplate the lumbering and slovenly lying of the present day
+without grieving to see a noble art so prostituted. In this veteran presence I
+naturally enter upon this theme with diffidence; it is like an old maid trying
+to teach nursery matters to the mothers in Israel. It would not become to me
+to criticise you, gentlemen--who are nearly all my elders--and my superiors,
+in this thing--if I should here and there _seem_ to do it, I trust it will in
+most cases be more in a spirit of admiration than fault-finding; indeed if
+this finest of the fine arts had everywhere received the attention, the
+encouragement, and conscientious practice and development which this club has
+devoted to it, I should not need to utter this lament, or shred a single tear.
+I do not say this to flatter: I say it in a spirit of just and appreciative
+recognition. [It had been my intention, at this point, to mention names and
+to give illustrative specimens, but indications observable about me admonished
+me to beware of the particulars and confine myself to generalities.]
+
+  No fact is more firmly established than that lying is a necessity of our
+circumstances--the deduction that it is then a Virtue goes without saying.
+No virtue can reach its highest usefulness without careful and diligent
+cultivation--therefore, it goes without saying that this one ought to be
+taught in the public schools--even in the newspapers. What chance has the
+ignorant uncultivated liar against the educated expert? What chance have I
+against Mr. Per--against a lawyer? _Judicious_ lying is what the world needs.
+I sometimes think it were even better and safer not to lie at all than to lie
+injudiciously. An awkward, unscientific lie is often as ineffectual as the
+truth.
+
+  Now let us see what the philosophers say. Note that venerable proverb:
+Children and fools _always_ speak the truth. The deduction is plain--adults
+and wise persons _never_speak it. Parkman, the historian, says, "The principle
+of truth may itself be carried into an absurdity." In another place in the same
+chapters he says, "The saying is old that truth should not be spoken at all
+times; and those whom a sick conscience worries into habitual violation of
+the maxim are imbeciles and nuisances." It is strong language, but true. None
+of us could _live_ with an habitual truth-teller; but thank goodness none of
+us has to. An habitual truth-teller is simply an impossible creature; he does
+not exist; he never has existed. Of course there are people who _think_ they
+never lie, but it is not so--and this ignorance is one of the very things that
+shame our so-called civilization. Everybody lies--every day; every hour;
+awake; asleep; in his dreams; in his joy; in his mourning; if he keeps his
+tongue still, his hands, his feet, his eyes, his attitude, will convey
+deception--and purposely. Even in sermons--but that is a platitude.
+
+  In a far country where I once lived the ladies used to go around paying
+calls, under the humane and kindly pretence of wanting to see each other;
+and when they returned home, they would cry out with a glad voice, saying,
+"We made sixteen calls and found fourteen of them out"--not meaning that
+they found out anything important against the fourteen--no, that was only
+a colloquial phrase to signify that they were not at home--and their manner
+of saying it expressed their lively satisfaction in that fact. Now their
+pretence of wanting to see the fourteen--and the other two whom they had been
+less lucky with--was that commonest and mildest form of lying which is
+sufficiently described as a deflection from the truth. Is it justifiable?
+Most certainly. It is beautiful, it is noble; for its object is, _not_ to reap
+profit, but to convey a pleasure to the sixteen. The iron-souled truth-monger
+would plainly manifest, or even utter the fact that he didn't want to see
+those people--and he would be an ass, and inflict totally unnecessary pain.
+And next, those ladies in that far country--but never mind, they had a thousand
+pleasant ways of lying, that grew out of gentle impulses, and were a credit
+to their intelligence and an honor to their hearts. Let the particulars go.
+
+  The men in that far country were liars, every one. Their mere howdy-do was a
+lie, because _they_ didn't care how you did, except they were undertakers. To
+the ordinary inquirer you lied in return; for you made no conscientious
+diagnostic of your case, but answered at random, and usually missed it
+considerably. You lied to the undertaker, and said your health was failing--a
+wholly commendable lie, since it cost you nothing and pleased the other man.
+If a stranger called and interrupted you, you said with your hearty tongue,
+"I'm glad to see you," and said with your heartier soul, "I wish you were with
+the cannibals and it was dinner-time." When he went, you said regretfully,
+"_Must_ you go?" and followed it with a "Call again;" but you did no harm, for
+you did not deceive anybody nor inflict any hurt, whereas the truth would have
+made you both unhappy.
+
+  I think that all this courteous lying is a sweet and loving art, and should
+be cultivated. The highest perfection of politeness is only a beautiful
+edifice, built, from the base to the dome, of graceful and gilded forms of
+charitable and unselfish lying.
+
+  What I bemoan is the growing prevalence of the brutal truth. Let us do what
+we can to eradicate it. An injurious truth has no merit over an injurious lie.
+Neither should ever be uttered. The man who speaks an injurious truth lest
+his soul be not saved if he do otherwise, should reflect that that sort of a
+soul is not strictly worth saving. The man who tells a lie to help a poor
+devil out of trouble, is one of whom the angels doubtless say, "Lo, here is
+an heroic soul who casts his own welfare in jeopardy to succor his neighbor's;
+let us exalt this magnanimous liar."
+
+  An injurious lie is an uncommendable thing; and so, also, and in the same
+degree, is an injurious truth--a fact that is recognized by the law of libel.
+
+  Among other common lies, we have the _silent_ lie--the deception which one
+conveys by simply keeping still and concealing the truth. Many obstinate
+truth-mongers indulge in this dissipation, imagining that if they _speak_ no
+lie, they lie not at all. In that far country where I once lived, there was
+a lovely spirit, a lady whose impulses were always high and pure, and whose
+character answered to them. One day I was there at dinner, and remarked, in
+a general way, that we are all liars. She was amazed, and said, "Not _all_?"
+It was before "Pinafore's" time. so I did not make the response which would
+naturally follow in our day, but frankly said, "Yes, _all_--we are all liars.
+There are no exceptions." She looked almost offended, "Why, do you include
+_me_?" "Certainly," I said. "I think you even rank as an expert." She said
+"Sh-'sh! the children!" So the subject was changed in deference to the
+children's presence, and we went on talking about other things. But as soon
+as the young people were out of the way, the lady came warmly back to the
+matter and said, "I have made a rule of my life to never tell a lie; and I
+have never departed from it in a single instance." I said, "I don't mean the
+least harm or disrespect, but really you have been lying like smoke ever
+since I've been sitting here. It has caused me a good deal of pain, because
+I'm not used to it." She required of me an instance--just a single instance.
+So I said--
+
+  "Well, here is the unfilled duplicate of the blank, which the Oakland
+hospital people sent to you by the hand of the sick-nurse when she came here
+to nurse your little nephew through his dangerous illness. This blank asks
+all manners of questions as to the conduct of that sick-nurse: 'Did she ever
+sleep on her watch? Did she ever forget to give the medicine?' and so forth
+and so on. You are warned to be very careful and explicit in your answers, for
+the welfare of the service requires that the nurses be promptly fined or
+otherwise punished for derelictions. You told me you were perfectly delighted
+with this nurse--that she had a thousand perfections and only one fault: you
+found you never could depend on her wrapping Johnny up half sufficiently while
+he waited in a chilly chair for her to rearrange the warm bed.
+You filled up the duplicate of this paper, and sent it back to the hospital
+by the hand of the nurse. How did you answer this question--'Was the nurse
+at any time guilty of a negligence which was likely to result in the patient's
+taking cold?' Come--everything is decided by a bet here in California: ten
+dollars to ten cents you lied when you answered that question." She said, "I
+didn't; _I left it blank!_" "Just so--you have told a _silent_ lie; you have
+left it to be inferred that you had no fault to find in that matter." She said,
+"Oh, was that a lie? And _how_ could I mention her one single fault, and she
+is so good?--It would have been cruel." I said, "One ought always to lie, when
+one can do good by it; your impulse was right, but your judgment was crude;
+this comes of unintelligent practice. Now observe the results of this inexpert
+deflection of yours. You know Mr. Jones's Willie is lying very low with
+scarlet-fever; well, your recommendation was so enthusiastic that that girl
+is there nursing him, and the worn-out family have all been trustingly sound
+asleep for the last fourteen hours, leaving their darling with full confidence
+in those fatal hands, because you, like young George Washington, have a reputa--
+However, if you are not going to have anything to do, I will come around
+to-morrow and we'll attend the funeral together, for, of course, you'll
+naturally feel a peculiar interest in Willie's case--as personal a one, in
+fact, as the undertaker."
+
+  But that was not all lost. Before I was half-way through she was in a carriage
+and making thirty miles an hour toward the Jones mansion to save what was left
+of Willie and tell all she knew about the deadly nurse. All of which was
+unnecessary, as Willie wasn't sick; I had been lying myself. But that same day,
+all the same, she sent a line to the hospital which filled up the neglected
+blank, and stated the _facts,_ too, in the squarest possible manner.
+
+  Now, you see, this lady's fault was _not_ in lying, but in lying
+injudiciously. She should have told the truth, _there,_ and made it up to the
+nurse with a fraudulent compliment further along in the paper. She could have
+said, "In one respect this sick-nurse is perfection--when she is on the watch,
+she never snores." Almost any little pleasant lie would have taken the sting
+out of that troublesome but necessary expression of the truth.
+
+  Lying is universal--we _all_ do it. Therefore, the wise thing is for us
+diligently to train ourselves to lie thoughtfully, judiciously; to lie with
+a good object, and not an evil one; to lie for others' advantage, and not our
+own; to lie healingly, charitably, humanely, not cruelly, hurtfully,
+maliciously; to lie gracefully and graciously, not awkwardly and clumsily;
+to lie firmly, frankly, squarely, with head erect, not haltingly, tortuously,
+with pusillanimous mien, as being ashamed of our high calling. Then shall we
+be rid of the rank and pestilent truth that is rotting the land; then shall
+we be great and good and beautiful, and worthy dwellers in a world where even
+benign Nature habitually lies, except when she promises execrable weather.
+Then--But am I but a new and feeble student in this gracious art; I cannot
+instruct _this_ club.
+
+  Joking aside, I think there is much need of wise examination into what sorts
+of lies are best and wholesomest to be indulged, seeing we _must_ all lie and
+we _do_ all lie, and what sorts it may be best to avoid--and this is a thing
+which I feel I can confidently put into the hands of this experienced Club--a
+ripe body, who may be termed, in this regard, and without undue flattery, Old
+Masters.
+
+
+
+
+
+End of Project Gutenberg Etext On the Decay of the Art of Lying, by Twain
+

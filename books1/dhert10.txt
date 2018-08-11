@@ -1,0 +1,762 @@
+Project Gutenberg Etext of The Disguising at Hertford, by Lydgate
+
+Copyright laws are changing all over the world, be sure to check
+the laws for your country before redistributing these files!!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.
+
+Please do not remove this.
+
+This should be the first thing seen when anyone opens the book.
+Do not change or edit it without written permission.  The words
+are carefully chosen to provide users with the information they
+need about what they can legally do with the texts.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+Presently, contributions are only being solicted from people in:
+Texas, Nevada, Idaho, Montana, Wyoming, Colorado, South Dakota,
+Iowa, Indiana, and Vermont. As the requirements for other states
+are met, additions to this list will be made and fund raising will
+begin in the additional states. These donations should be made to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655
+
+
+Title:  The Disguising at Hertford
+
+Author:  John Lydgate
+
+October, 2001  [Etext #2878]
+[Yes, we are about one year ahead of schedule]
+
+Edition:  10
+
+
+Project Gutenberg Etext of The Disguising at Hertford, by Lydgate
+*******This file should be named dhert10.txt or dhert10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, dhert11.txt
+VERSIONS based on separate sources get new LETTER, dhert10a.txt
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we usually do NOT keep any
+of these books in compliance with any particular paper edition.
+
+We are now trying to release all our books one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to send us error messages even years after
+the official publication date.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our sites at:
+http://gutenberg.net
+http://promo.net/pg
+
+
+Those of you who want to download any Etext before announcement
+can surf to them as follows, and just download by date; this is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://metalab.unc.edu/pub/docs/books/gutenberg/etext01
+or
+ftp://metalab.unc.edu/pub/docs/books/gutenberg/etext01
+
+Or /etext00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release fifty new Etext
+files per month, or 500 more Etexts in 2000 for a total of 3000+
+If they reach just 1-2% of the world's population then the total
+should reach over 300 billion Etexts given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding.
+
+Something is needed to create a future for Project Gutenberg for
+the next 100 years.
+
+We need your donations more than ever!
+
+Presently, contributions are only being solicted from people in:
+Texas, Nevada, Idaho, Montana, Wyoming, Colorado, South Dakota,
+Iowa, Indiana, and Vermont. As the requirements for other states
+are met, additions to this list will be made and fund raising will
+begin in the additional states.
+
+All donations should be made to the Project Gutenberg Literary
+Archive Foundation and will be tax deductible to the extent
+permitted by law.
+
+Mail to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Avenue
+Oxford, MS 38655  [USA]
+
+We are working with the Project Gutenberg Literary Archive
+Foundation to build more stable support and ensure the
+future of Project Gutenberg.
+
+We need your donations more than ever!
+
+You can get up to date donation information at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+You can always email directly to:
+
+Michael S. Hart <hart@pobox.com>
+
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+
+Example command-line FTP session:
+
+ftp metalab.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99 or etext00 through etext01, etc.
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-tm etexts,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions of money, time,
+public domain etexts, and royalty free copyright licenses.
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.07.00*END*
+
+
+
+
+
+The Disguising at Hertford
+
+by John Lydgate
+c.1370 - 1449
+
+
+
+a verse play written circa 1427.
+
+This version is made available with the permission of the Master and
+Fellows of Trinity College, Cambridge, England, the owners of the unique
+original manuscript.
+
+For the purposes of this multi-platform electronic text, the medieval
+'thorn' (a character representing 'th') has been changed to 'th'.  It was
+impracticable to reproduce the original punctuation, which mainly
+consisted of the virgule or slash.  Modern commas and full stops have been
+sparingly imposed.  Superscript tildes and mid-script tildes have been
+removed.  Mid-script dots have been changed to colons as they seem to
+indicate a deliberate suspension.  The last four words of the initial
+rubric (Brys : slayne at Loviers) appear to have been added to the
+manuscript at a date slightly later than when it was first written.
+Section marks occur in the original without consistency;  where these
+clearly indicate a new section, a blank line has been inserted to produce
+a similar effect.
+
+The endnotes include the original stage directions.  Two lacunae in the
+manuscript have been supplied by reference to John Stow's late 16th-
+century manuscript copy of the text.  The other endnotes are glosses of
+particular words in the text.
+
+The transcription of Lydgate's text has also been published in book form
+under the title 'Lydgate's Disguising at Hertford Castle', including a
+modern verse translation of the text, an editor's introduction and notes,
+and a study of the literary and historical background of the play and of
+its first performance, which took place at Hertford Castle as part of the
+royal Christmas festivities of, probably, 1427.  It is hoped that this
+additional material will become available as a Project Gutenberg etext.
+Readers interested in the book may wish to have its publication details
+
+Lydgate's Disguising at Hertford Castle by Derek Forbes
+with Foreword by Glynne Wickham
+First published by Blot Publishing, Pulborough, 1998.
+Pp. xiv + 82, f'piece, and 4 plate ills.
+Decorated and laminated card cover. ISBN 1 900929 03 1.
+Retail price in 2000 six pounds GBP.
+
+Copies of the book are available from
+Blot Publishing, 8 Chanctonbury, Ashington, West Sussex, RH20 3QE, UK.
+Telephone: +44 (0)1903 893806
+Email: <info@blot.co.uk>;  Web site: <http://www.blot.co.uk>.
+or from the Society for Theatre Research, c/o The Theatre Museum,
+1E Tavistock Street, London WC2E 7PA, UK.
+
+Copies of the book were distributed by the Society for Theatre Research to
+its members worldwide in 1998, and can be consulted in the libraries of
+institutions which subscribe to the Society.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Nowe folowethe here the maner of a bille by wey of supplicacon putte to
+the kyng holding his noble feest of Cristmasse in the Castel of Hertford
+as in a disguysing : of the Rude upplandisshe people compleyning on hir
+wyves with the boystous aunswere of hir wyves devysed by lydegate at the
+Request of the Countre Roullour  Brys : slayne at Loviers
+
+Most noble prynce :  With support of your grace,
+Ther beon entred : in to youre royal place
+And late coomen in to youre castell,
+Youre poure lieges, wheche lyke no thing weel.
+Nowe in the vigyle of this nuwe yeere
+Certayne sweynes, ful [froward of ther chere],
+Of entent comen, [fallen on ther kne],
+For to compleyne vn to yuoure magestee
+Vpon the mescheef of gret aduersytee,
+Vpon the trouble and the cruweltee          [10]
+Which that they haue endured in theyre lyves
+By the felnesse of theyre fierce wyves,
+Which is a tourment verray importable,
+A bonde of sorowe, a knott vnremuwable.
+For whoo is bounde or locked in maryage,
+Yif he beo olde, he falleth in dotage,
+And yong folkes, of theyre lymes sklendre,
+Grene and lusty, and of brawne but tendre,
+Phylosophres callen in suche aage
+A Chylde to wyve, a woodnesse or a raage.          [20]
+
+For they afferme ther is noon eorthly stryff
+May beo compared to wedding of a wyff,
+And who that euer stondethe in the cas
+He with his Rebecke may sing ful oft ellas,
+Lyke as theos hynes, here stonding oon by oon,
+He may with hem vpon the daunce goon.
+Leorne the traas, boothe at even and morowe
+Of Karycantowe in tourment and in sorowe....
+Weyle the while ellas that he was borne.
+For Obbe, the Reeve, that goothe heere al to forne,          [30]
+He pleynethe sore, his mariage is not meete,
+For his wyff, Beautryce Bittersweete,
+Cast vpon him an hougly cheer ful rowghe
+Whane he komethe home, ful wery frome the ploughe,
+With hungry stomake, deed and paale of cheere,
+In hope to fynde redy his dynier.
+
+Thanne sittethe Beautryce, bolling at the nale,
+As she that gyvethe of him no maner tale.
+For she alday with hir iowsy nolle,
+Hathe for the collyk pouped in the bolle          [40]
+And for heed aache : with pepir and gynger
+Dronk dolled ale, to make hir throte cleer,
+And komethe hir hoome, whane hit drawethe to eve.
+And thanne Robyn, the cely poure Reeve,
+Fynde noone amendes of harome ne damage
+But leene growell, and soupethe cold potage,
+And of his wyf hathe noone other cheer
+But cokkrowortes vn to his souper.
+This is his servyce sitting at the borde,
+And cely Robyn, yif he speke a worde,          [50]
+Beautryce of him doothe so lytel rekke
+That with hir distaff she hittethe him in the nekke,
+For a medecyne to chawf with his bloode.
+With suche a metyerde she hathe shape him an hoode.
+
+And Colyn Cobeller, folowing his felawe,
+Hathe hade his part of the same lawe,
+For by the fayth that the preost him gaf
+His wyff hathe taught him to pleyne at the staff.
+Hir quarter strooke were so large and rounde
+That on his rigge the towche was alwey founde.          [60]
+
+Cecely Sourechere, his owen precyous spouse,
+Kowde him reheete whan he came to house.
+Yif he ought spake whanne he felt peyne,
+Ageyne oon worde alweys he hade tweyne.
+Sheo qwytt him euer, ther was no thing to seeche,
+Six for oon, of worde and strookes eeche.
+Ther was no meen bytweene hem for to goone.
+What euer he wan : clowting olde shoone
+The wykday, pleynely this is no tale,
+Sheo wolde on Sondayes drynk it at the nale.          [70]
+His part was noon, he sayde not oonys nay.
+Hit is no game, but an hernest play
+For lack of wit a man his wyf to greeve.
+Theos housbondemen : who so wolde hem leeve,
+Koude yif they dourst telle : in Audyence,
+What folowethe ther of wyves to doone offence.
+Is noon so olde ne ryveld on hir face,
+Wit tong or staff but that she dare manase.
+Mabyle, God hir sauve and blesse,
+Koude yif hir list bere here of witnesse,          [80]
+Wordes, strookes vnhappe, and harde grace,
+With sharp nayles kracching in the face.
+I mene thus, whane the distaff is brooke
+With theyre fistes wyves wol be wrooke.
+
+Blessed thoo men that cane in suche offence
+Meekly souffre, take al in pacyence
+Tendure suche wyfly purgatorye.
+Heven for theyre meede, to regne ther in glorye.
+God graunt al housbandes that beon in this place
+To wynne so heven for his hooly grace.          [90]
+
+Nexst in ordre, this bochier stoute and bolde
+That killed hathe bulles and boores olde,
+This Berthilmew, for al his broode knyff,
+Yit durst he neuer with his sturdy wyff
+In no mater holde chaumpartye.
+And if he did, sheo wolde anoon defye
+His pompe, his pryde, with a sterne thought,
+And sodeynly setten him at nought.
+Thoughe his bely were rounded lyche an ooke
+She wolde not fail to gyf the first strooke.          [100]
+For proude Pernelle lyche a Chaumpyon
+Wolde leve hir puddinges in a gret Cawdroun,
+Suffre hem boylle and taake of hem noon heede,
+But with hir skumour reeche him on the heued.
+Shee wolde paye him and make no delaye,
+Bid him goo pleye him a twenty deuel way.
+She was no cowarde founde at suche a neode,
+Hir fist ful offt made his cheekis bleed.
+What querell euer that he agenst hir sette,
+She cast hir not to dyen in his dette.          [110]
+She made no taylle, but qwytt him by and by.
+His quarter sowde, she payde him feythfully.
+And his waages, wt al hir best entent,
+She made ther of noon assignement.
+
+Eeke Thome Tynker, with alle hees pannes olde
+And alle the wyres of Banebury that he solde,
+His styth, his hamour, his bagge portatyf,
+Bare vp his arme whane he faught with his wyff:
+He foonde for haste no better bokeller,
+Vpon his cheeke the distaff came so neer.          [120]
+Hir name was cleped Tybot Tapister.
+To brawle and broyle she nad no maner fer,
+To thakke his pilche stoundemel nowe and thanne
+Thikker thane Thome koude clowten any panne.
+
+Nexst Colle Tyler, ful hevy of his cheer,
+Compleynethe on Phelyce his wyff the wafurer
+Al his bred with sugre nys not baake,
+Yit on his cheekis some tyme he hathe a caake
+So hoot and nuwe, or he can taken heede,
+That his heres glowe verray reede          [130]
+For a medecyne whane the forst is colde,
+Makyng his teethe to ratle that beon oolde.
+
+This is the compleynt that theos dotardes oolde
+Make on theyre wyves that beon so stoute and bolde,
+Theos holy martirs preued ful pacyent,
+Lowly beseching, in al hir best entent,
+Vnto youre noble ryal magestee,
+To graunte hem fraunchyse and also liberte
+Sith they beothe fetird and bounden in maryage,
+A saufconduct to sauf him frome damage.          [140]
+Eeke vnder support of youre hyeghe renoun
+Graunt hem also a proteccyoun.
+
+Conquest of wyves is rone thoroughe this lande,
+Cleyming of Right to haue the hyegher hande.
+But if you list, of youre Regallye,
+The olde testament for to modefye,
+And that yee list asselen theyre request
+That theos poure husbandes might lyf in rest,
+And that theyre wyves in theyre felle might
+Wol medle amonge mercy with theyre right.          [150]
+For it came neuer of nature ne raysoun
+A lyonesse toppresse the lyoun,
+Ner a wolfesse for al hir thyraunye
+Ouer the wolf to haven the maystrye.
+Ther beon nowe wolfesses moo thane twoo or three
+The bookys recorde, wheeche tht yonder bee.
+Seothe to this mater of mercy and of grace,
+And or thees dotardes parte out of this place,
+Vpon theyre compleynt to shape remedye,
+Or they beo likly to stande in iupardye.          [160]
+It is no game with wyves for to pleye,
+But for foolis, that gif no force to deye.
+
+Takethe heed of thaunswer of the wyves.
+
+Touching the substance of this hyeghe discorde,
+We six wyves : beon ful of oon acorde,
+Yif worde and chyding may vs not avaylle
+We wol darrein it in chaumpcloos by bataylle,
+Iupart oure right laate or ellys raathe.
+And for oure partye, the worthy Wyff of Bathe
+Cane shewe statutes moo than six of seven
+Howe wyves make hir housbandes wynne heven,          [170]
+Maugre the feonde and al his vyolence.
+For theyre vertu of parfyte pacyence
+Partenethe not to wyves nowe adayes,
+Sauf on theyre housbandes for to make assayes.
+Ther pacyence was buryed long agoo,
+Gresyldes story recordethe pleinly soo.
+
+It longethe to vs to clappen as a mylle,
+No counseyle keepe, but the trouth oute telle.
+We beo not borne by hevenly influence
+Of oure nature to keepe vs in sylence.          [180]
+For this is no doute, euery prudent wyff
+Hathe redy aunswere in al suche maner stryff,
+Thoughe theos dotardes, with theyre dokked berdes
+Which strowtethe out as they were made of herdes,
+Haue ageyn hus a gret quarell nowe sette.
+I trowe the bakoun was neuer of hem fette
+Awaye at Dounmowe in the Pryorye.
+They weene of vs to haue ay the maystrye.
+Ellas theos fooles let hem aunswere here to,
+Whoo cane hem wasshe, who can hem wring alsoo,          [190]
+Wryng hem, yee wryng, so als god vs speed,
+Til that some tyme we make hir nases bleed,
+And sowe hir cloothes whane they beothe to rent,
+And clowte hir bakkes til some of vs beo shent.
+Loo yit theos fooles, god gyf hem sory chaunce,
+Wolde sette hir wyves vnder gouuernaunce,
+Make vs to hem for to lowte lowe:
+We knowe to weel the bent of Iackys bowe.
+Al that we clayme, we clayme it but of right.
+Yif they say nay let preve it out by ffight.          [200]
+We wil vs grounde not vpon womanhede.
+Fy on hem, cowardes.  When hit komethe to nede,
+We clayme maystrye by prescripcyoun,
+Be long tytle of successyoun
+Frome wyff to wyff, which we wol not leese.
+Men may weel gruchche, but they shal not cheese.
+Custume is vs for nature and vsaunce
+To set oure housbandes lyf in gret noysaunce.
+Humbelly byseching nowe at oon worde
+Vn to oure liege, and moost souerein lord,          [210]
+Vs to defende of his regallye,
+And of his grace susteenen oure partye,
+Requering the statuyt of olde antiquytee
+That in youre tyme it may confermed bee.
+
+The complaynte of the lewed housbandes wt the cruwell aunswers of theyre
+wyves herde, the kyng yivethe ther vpon sentence and iugement.
+
+This noble Prynce, moost royal of estate,
+Having an eyeghe to this mortal debate,
+First aduerting of ful hyeghe prudence,
+Wil vnavysed gyve here no sentence
+With oute counseylle of haste to procede
+By sodeyne doome, for he takythe heede          [220]
+To eyther partye as iuge indifferent,
+Seing the paryll of hasty iugement.
+Pourposithe him in this contynude stryffe
+To gif no sentence ther of diffynytyff
+Til ther beo made examynacyoun
+Of other partye, and inquysicyoun.
+He considerethe, and makethe Raysoun his guyde,
+As egal iuge enclyning to noo syde.
+Not with standing, he hathe compassyoun
+Of the poure housbandes trybulacyoun,          [230]
+So afft arrested with theyre wyves rokkes
+Which of theyre distaves haue so many knokkes,
+Peysing also in his regallye
+The lawe tht wymmen allegge for theyre partye,
+Custume, Nature and eeke prescripcyoun,
+Statuyt vsed by confirmacyoun,
+Processe and daate of tyme oute of mynde,
+Recorde of Cronycles, witnesse of hir kuynde.
+Wher fore the Kyng wol al this nexst yeere
+That wyves fraunchyse : stonde hoole and entier,          [240]
+And that no man withstonde it ne withdrawe,
+Til man may fynde some pcesse oute by lawe
+That they shoulde by nature in theyre lyves
+Haue souerayntee on theyre prudent wyves,
+A thing vnkouthe, which was neuer founde.
+Let men be ware ther fore, or they beo bounde.
+The bonde is hard, who soo that lookethe weel.
+Some man were leuer fetterd beon in steel.
+Raunsoun might help his peyne to aswaage,
+But whoo is wedded lyuethe euer in suage.          [250]
+And I knowe neuer, nowher fer ner neer,
+Man that was gladde to bynde him prysonier,
+Thoughe that his prysoun, his castell, or his holde
+Wer depeynted with asure or with golde.
+
+Explicit.
+
+
+Glossary, Stage directions, Notes
+
+line
+5  vigyle of this nuwe yeere = this new year's eve
+6  froward of ther chere:  lacuna made up from Stow
+7  fallen on ther kne:  lacuna made up from Stow
+13  importable = unbearable
+16  dotage = feeble-mindedness
+20  woodnesse = madness
+24  Rebecke = fiddle;  ellas = alas!
+25  stage direction - demonstrando vj Rusticos
+27  traas = course
+28  possible lacuna follows here?
+37  bolling at the nale = quaffing at the ale-house
+39  iowsy nolle = juicy noddle
+40  pouped = gulped
+42  dolled = mulled
+44  cely = silly, i.e. simple, innocent
+45  harome = harm
+46  growell = gruel
+48  cokkrowortes = stale brew-mash
+53  to chawf with his bloode = to chafe his blood with
+54  metyerde = meteyard or yardstick
+55  stage direction - demonstrando pictaciarium
+57  preost = priest
+60  rigge = back
+62  reheete = attack, scold
+65  qwytt = requited;  ther was no thing to seeche = it was plain to see
+67  meen = middle way
+68  wan = earned;  clowting = mending
+71  oonys = once
+74  leeve = believe
+77  ryveld = shrivelled
+78  Wit = with;  manase = menace
+79  Mabyle = Mary
+80  Koude yif hir list = could if it please her
+84  wol be wrooke = will wreak revenge
+85  thoo men = those men
+87  Tendure = to endure
+88  meede = reward
+90  so = to?
+91  stage direction - demonstrando Carnificem
+95  holde chaumpartye = divide power, or resist
+104  skumour = skimmer;  reeche = strike;  heued = head
+111  qwytt him by and by = repaid him in due time
+112  quarter sowde = surrender sued for
+113  wt = with
+115  stage direction - demonstrando the Tynker
+117  styth = anvil
+119  bokeller = buckler, shield
+121  cleped = called
+122  she nad no maner fer = she feared not
+123  thakke his pilche = thwack his great-coat;  stoundemel = sometimes
+124  Thikker = more stoutly
+126  wafurer = waferer, i.e. pastry-cook
+129  or = ere
+130  heres = ears
+135  preued = proved
+139  fetird = fettered
+140  him = them
+145  Regallye = regality
+147  that yee list = if you please;  asselen = authorize
+150  medle = mingle
+153  thyraunye = tyranny
+156  tht = that;  stage direction - distaves
+157  Seothe = see
+162  that gif no force = that are of no consequence
+166  darrein = decide;  chaumpcloos = tilting-field
+167  Iupart = imperil;  raathe = soon
+169  of = or
+171  Maugre the feonde = in spite of the devil
+174  assayes = attempts, i.e. attacks
+177  longethe = belongs;  clappen = clatter or prattle
+183  dokked = trimmed
+184  herdes = coarse flax, 'hards'
+186  fette = fetched
+192  hir = our?]
+193  rent = torn
+194  shent = injured
+197  lowte lowe = bow, make reverence
+205  leese = lose
+206  gruchche = grumble;  cheese = choose
+218  vnavysed = unadvised
+220  doome = judgment
+222  paryll = peril
+223  Pourposithe him = He purposeth
+231  rokkes = distaffs, also as rocking, set-backs
+233  Peysing = weighing
+234  tht = that
+239  the Kyng wol = the king wills
+242  pcesse = process
+248  were leuer fetterd beon = were rather to be fettered
+250  suage = s(er)vage, servitude
+
+
+
+
+
+End of Project Gutenberg Etext of The Disguising at Hertford, by Lydgate
+
