@@ -6,6 +6,7 @@ from os.path import isfile, join
 import datetime
 import argparse
 import sys
+import urllib2
 import os
 
 
@@ -40,6 +41,7 @@ def worker(book, hashToTest):
                     os.system('play --no-show-progress --null --channels 1 synth %s sine %f' % (duration, freq))
                     print 'success at'
                     print(datetime.datetime.now())
+                    contents = urllib2.urlopen("192.168.86.177:3000/success").read()
                     return true
 
 
@@ -57,5 +59,6 @@ if __name__ == '__main__':
         # p.start()
     pool.close()
     pool.join()
+    
 
     set_interval
