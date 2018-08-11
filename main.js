@@ -25,7 +25,15 @@ const express = require('express');
             // console.timeEnd('ClusterBuster');
             }
             console.log(stdout);
-            exec(`${runner} "python filechecker.py ${hashToFind}"  ${i}`, (err, stdout, stderr) => {});
+            exec(`sudo sshpass -p "pipass${i}" scp -r ./filechecker.py pi@${servers[i-1]}:~/books`, function(err, stdout, stderr) {
+                if (err) {
+                // retsart your timers
+                console.error(err);
+                // console.timeEnd('ClusterBuster');
+                }
+                exec(`${runner} "python filechecker.py ${hashToFind}"  ${i}`, (err, stdout, stderr) => {});
+            });
+            
         });
     }
     
