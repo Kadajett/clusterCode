@@ -28,16 +28,16 @@ var walkSync = function(dir, filelist) {
     // RUNNER sudo bash ./runner.sh "ls ~/books" 
     // copier "sudo bash ./copier.sh 0 0 '~/books' './clusterCode/books/*'"
     
-    const booksLocation = './books';
+    const booksLocation = '/home/pi/usb/sda1';
     const endLocation = './booksEnd';
     const runner = 'sudo bash ./runner.sh';
 	const servers = ['192.168.2.61', '192.168.2.84', '192.168.2.54'];
 	const hashToFind = "1a74381c8afca5dc84d3b23c2a60f24e"
 
-    const bookList = walkSync('./books/', []);
+    const bookList = walkSync(`${booksLocation}`, []);
     exec(`rm -rf ${endLocation} && mkdir ${endLocation}`)
     bookList.forEach((location) => {
-        exec(`mv ./${location} ${endLocation}/.`, (err, stdout, stderr) => {
+        exec(`mv ${location} ${endLocation}/.`, (err, stdout, stderr) => {
             if(err) {
                 console.error(err);
             }
