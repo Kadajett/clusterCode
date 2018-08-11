@@ -31,7 +31,14 @@ const express = require('express');
                 console.error(err);
                 // console.timeEnd('ClusterBuster');
                 }
-                exec(`${runner} "python filechecker.py ${hashToFind}"  ${i}`, (err, stdout, stderr) => {});
+                exec(`${runner} "python filechecker.py ${hashToFind}"  ${i}`, (err, stdout, stderr) => {
+                    if (err) {
+                    // retsart your timers
+                    console.error(err);
+                    // console.timeEnd('ClusterBuster');
+                    }
+                    console.log(stdout)
+                });
             });
             
         });
