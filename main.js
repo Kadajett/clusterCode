@@ -13,14 +13,14 @@ const fig = require('figlet');
 
 
 
-    console.time('ClusterBuster')
+    // console.time('ClusterBuster')
     for(let i = 1; i < 4; i++) {
         // change this ./clusterCode/books/* to the location of the usb drive with all the books
-        exec("sudo bash ./copier.sh 0 ${i} ${endLocation} ${booksLocation + i}", function(err, stdout, stderr) {
+        exec(`sudo bash ./copier.sh 0 ${i} ${endLocation} ${booksLocation + i}`, function(err, stdout, stderr) {
             if (err) {
             // retsart your timers
             console.error(err);
-            console.timeEnd('ClusterBuster');
+            // console.timeEnd('ClusterBuster');
             }
             console.log(stdout);
             exec(runner + " ")
