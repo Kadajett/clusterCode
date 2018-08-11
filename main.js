@@ -8,15 +8,15 @@ const fig = require('figlet');
     // copier "sudo bash ./copier.sh 0 0 '~/books' './clusterCode/books/*'"
     
     const booksLocation = './books';
-    const endLocation = '~/';
+    const endLocation = '~/books/.';
     const runner = 'sudo bash ./runner.sh';
-
-
+	const servers = ['192.168.2.61', '192.168.2.84', '192.168.2.54'];
+	
 
     // console.time('ClusterBuster')
     for(let i = 1; i < 4; i++) {
         // change this ./clusterCode/books/* to the location of the usb drive with all the books
-        exec(`sudo bash ./copier.sh 0 ${i} ${endLocation} ${booksLocation + i}`, function(err, stdout, stderr) {
+        exec(`sudo sshpass -p "pipass${i}" scp -r ./books${i} pi@${servers[i-1]}:~/books`, function(err, stdout, stderr) {
             if (err) {
             // retsart your timers
             console.error(err);
