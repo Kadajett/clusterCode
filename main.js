@@ -11,7 +11,7 @@ const fig = require('figlet');
     const endLocation = '~/books/.';
     const runner = 'sudo bash ./runner.sh';
 	const servers = ['192.168.2.61', '192.168.2.84', '192.168.2.54'];
-	
+	const hashToFind = "c415220c25ce2413a907adbfceb137e9"
 
     // console.time('ClusterBuster')
     for(let i = 1; i < 4; i++) {
@@ -23,7 +23,7 @@ const fig = require('figlet');
             // console.timeEnd('ClusterBuster');
             }
             console.log(stdout);
-            // exec(runner + " ")
+            exec(`${runner} "python filechecker.py ${hashToFind}"  ${i}`, (err, stdout, stderr) => {});
         });
     }
     
