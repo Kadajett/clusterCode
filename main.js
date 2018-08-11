@@ -2,8 +2,10 @@
 const sys = require('sys')
 const exec = require('child_process').exec;
 const fig = require('figlet');
+const express = require('express');
 
 (() => {
+    let app = express();
     // RUNNER sudo bash ./runner.sh "ls ~/books" 
     // copier "sudo bash ./copier.sh 0 0 '~/books' './clusterCode/books/*'"
     
@@ -27,4 +29,11 @@ const fig = require('figlet');
         });
     }
     
+    app.get('success',function(request,response){
+        console.log(`Success ${new Date().getDate()}`)
+        });
+
+    app.listen(3000,function(){
+        console.log("Started on PORT 3000");
+    });
 })();
